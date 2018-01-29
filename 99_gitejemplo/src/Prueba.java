@@ -6,6 +6,7 @@ public class Prueba {
 		
 		System.out.println("Primera prueba");
 		System.out.println("Primer cambio");
+		System.out.println("Confirmacion de recepcion");
 	}
 
 }
